@@ -25,6 +25,13 @@
 
 ---
 
+## 🌐 Portfolio
+
+🚀 **Check out my work:**  
+👉 [My Portfolio](https://keerthivasan-portfolio.netlify.app/)
+
+---
+
 ## 📄 Resume
 
 📌 **View my resume here:**  
