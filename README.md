@@ -35,7 +35,7 @@
 ## 📄 Resume
 
 📌 **View my resume here:**  
-👉 [Resume Link](Resume/Keerthivasan_resume.pdf)
+👉 [Resume Link](Resume/Keerthivasan_resume_1.pdf)
 
 ---
 
@@ -58,15 +58,6 @@
 
 ### 🔧 Others
 `Git` `REST APIs` `Automation Scripting`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smartkeerthi&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartkeerthi&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
