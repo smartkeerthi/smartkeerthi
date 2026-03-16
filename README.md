@@ -28,14 +28,14 @@
 ## 🌐 Portfolio
 
 🚀 **Check out my work:**  
-👉 [My Portfolio](https://keerthivasan-portfolio.netlify.app/)
+👉 [My Portfolio](https://kkvasan.in/)
 
 ---
 
 ## 📄 Resume
 
 📌 **View my resume here:**  
-👉 [Resume Link](Resume/Keerthivasan_resume_1.pdf)
+👉 [Resume Link](Resume/Keerthivasan_Resume_New.pdf)
 
 ---
 
