@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Keerthivasan 👋</h1>
 
 <p align="center">
-  <b>Production Support Engineer · Application Support · Full Stack Developer</b><br/>
+  <b>Application Reliability Engineering · Application Support · Full Stack Developer</b><br/>
   4+ years @ Accenture India · Chennai / Puducherry
 </p>
 
@@ -15,11 +15,16 @@
 
 ## 👨‍💻 About Me
 
-I'm a Production Support Engineer at **Accenture India** with 4+ years of experience keeping enterprise applications stable, monitored, and running at **99.9% uptime**.
+I'm a Custom Software Engineering Analyst at **Accenture India** with 4+ years of experience keeping enterprise applications stable, monitored, and running at **99.9% uptime**.
 
-My day-to-day involves triaging L2/L3 incidents, digging through **Dynatrace** and **Kibana** logs to find root causes, writing **SQL** queries to validate production data, and building **Python** scripts that eliminate repetitive manual work. I support 10+ enterprise applications deployed on **PCF** and **Azure ARO**, handling 100+ incidents a month — including P1/P2 escalations.
+My day-to-day involves triaging **L2/L3 incidents**, investigating **Dynatrace** and **Kibana** logs to identify root causes, writing **SQL** queries to validate production data, and building **Python** automation that eliminates repetitive manual work. I support **10+ enterprise applications** deployed on **PCF** and **Azure ARO**, handling **100+ incidents a month**, including critical P1/P2 escalations.
 
-Outside of support work, I build full stack web apps using **React.js**, **Next.js**, and **Node.js** — which means I can triage UI-side production bugs independently without waiting on dev teams.
+Beyond production engineering, I build **full-stack applications** using **React.js, Next.js, Node.js, and SQL**, allowing me to independently troubleshoot and resolve UI, API, and database issues without relying entirely on development teams.
+
+More recently, I've been building **AI-powered applications** using **Python, Google Gemini, LangGraph, RAG, ChromaDB, and FastAPI** — including an AI expense assistant, a conversational CLI chatbot, and a document question-answering system.
+
+My focus is on building software that is not only functional, but **reliable, observable, and production-ready** — whether it's an enterprise application handling critical workloads or an AI system solving a real-world problem.
+
 
 ---
 
@@ -123,6 +128,21 @@ Outside of support work, I build full stack web apps using **React.js**, **Next.
 ---
 
 ## 🚀 Featured Projects
+
+### 🤖 [Expense Tracker Agent](https://github.com/smartkeerthi/Expense_Tracker_Agent) — AI-Powered Expense Assistant
+
+> Python · FastAPI · LangGraph · Google Gemini · Telegram · SQLAlchemy · PostgreSQL/SQLite
+
+AI-powered personal expense assistant that turns natural-language Telegram messages into structured financial transactions and spending summaries. Built with LangGraph agent orchestration, user-scoped data, webhook idempotency, and a layered service/repository architecture.
+
+---
+
+### 📄 [Document RAG](https://github.com/smartkeerthi/Document_RAG) — Document Question-Answering API
+
+> Python · FastAPI · Google Gemini · ChromaDB · PyMuPDF · RAG
+
+Retrieval-Augmented Generation API that lets users upload PDFs and ask natural-language questions about their contents. Implements document chunking, Gemini embeddings, persistent ChromaDB vector search, grounded answer generation, and source-aware responses with page and similarity metadata.
+
 
 ### 💬 [Chatzz](https://chatzz.kkvasan.in) — Real-Time Full Stack Chat App
 > Next.js · React.js · Prisma ORM · Pusher WebSocket · NextAuth.js · MySQL
