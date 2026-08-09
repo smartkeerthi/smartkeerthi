@@ -1,185 +1,302 @@
-<h1 align="center">Hi, I'm Keerthivasan 👋</h1>
+# Hi, I'm Keerthivasan 👋
+
+### Software Engineer | AI & Full Stack | Application Reliability
+
+I build **production-minded software, AI applications, and reliable backend systems** with a focus on turning real-world problems into maintainable solutions.
+
+I bring **4.5+ years of enterprise application experience** across application reliability, production support, backend development, and full-stack engineering. I'm currently focused on building with **Python, FastAPI, LangGraph, RAG, React, Next.js, and cloud technologies**.
+
+---
+
+## 🚀 What I Do
+
+- 🤖 Build AI applications using **LLMs, LangGraph, RAG, and AI agents**
+- 🐍 Develop backend services and REST APIs with **Python & FastAPI**
+- ⚛️ Build full-stack applications with **React, Next.js & TypeScript**
+- 🗄️ Design applications using **PostgreSQL, SQLite, Prisma & vector databases**
+- ☁️ Work with **Azure, PCF, Docker & cloud environments**
+- 📊 Apply **observability, monitoring, troubleshooting, and reliability engineering**
+- 🔧 Automate repetitive operational workflows using **Python & SQL**
+- 🧪 Focus on maintainable architecture, testing, debugging, and production readiness
+
+---
+
+## ⭐ Featured Projects
+
+### 🤖 Expense Tracker Agent
+
+**AI-powered expense management agent built with LangGraph and FastAPI.**
+
+A production-oriented AI application that allows users to record and analyze expenses through natural language.
+
+#### Highlights
+
+- LangGraph-based agent orchestration
+- Google Gemini integration
+- FastAPI REST API
+- Telegram bot and webhook integration
+- PostgreSQL / SQLite persistence
+- SQLAlchemy and Alembic migrations
+- Service / repository architecture
+- User-scoped data access
+- Webhook idempotency
+- Health checks and observability
+- LangSmith tracing
+
+**Tech Stack**
+
+`Python` `FastAPI` `LangGraph` `Google Gemini` `SQLAlchemy` `PostgreSQL` `SQLite` `Alembic`
+
+---
+
+### 📚 Document RAG
+
+**Document question-answering API using Retrieval-Augmented Generation.**
+
+A RAG pipeline that processes documents, creates embeddings, retrieves relevant context, and generates grounded answers with source metadata.
+
+#### Pipeline
+
+```text
+Document
+   │
+   ▼
+Text Extraction
+   │
+   ▼
+Chunking
+   │
+   ▼
+Embeddings
+   │
+   ▼
+Vector Database
+   │
+   ▼
+Similarity Retrieval
+   │
+   ▼
+Context Construction
+   │
+   ▼
+LLM
+   │
+   ▼
+Grounded Answer + Sources
+```
+
+**Tech Stack**
+
+`Python` `FastAPI` `Google Gemini` `ChromaDB` `RAG` `Vector Search`
+
+---
+
+### 💬 Chatzz
+
+**Real-time one-to-one messaging application built with Next.js.**
+
+A full-stack application demonstrating authentication, persistent conversations, real-time communication, and responsive UI.
+
+#### Highlights
+
+- Next.js and React
+- TypeScript
+- Prisma ORM
+- Real-time messaging with Pusher
+- Authentication
+- Persistent database-backed conversations
+- Responsive interface
+- Production deployment
+
+**Tech Stack**
+
+`Next.js` `React` `TypeScript` `Prisma` `Pusher`
+
+---
+
+### 🧠 CLI Chatbot
+
+**Terminal-based AI chatbot with memory, personas, streaming, and usage tracking.**
+
+A modular Gemini-powered CLI application focused on practical LLM application development.
+
+#### Highlights
+
+- Streaming responses
+- Multiple AI personas
+- Conversation memory
+- Conversation summarization
+- Model switching
+- Token usage tracking
+- Cost estimation
+- Rich terminal interface
+
+**Tech Stack**
+
+`Python` `Google Gemini` `Rich` `LLM APIs`
+
+---
+
+## 🛠️ Technical Skills
+
+### 🤖 AI & LLM
+
+`LLMs` `Generative AI` `RAG` `LangGraph` `LangChain` `Google Gemini` `AI Agents` `Prompt Engineering` `Vector Search` `Embeddings`
+
+### 🐍 Backend
+
+`Python` `FastAPI` `REST APIs` `Java` `Node.js` `SQLAlchemy` `Prisma`
+
+### ⚛️ Frontend
+
+`React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS`
+
+### 🗄️ Databases
+
+`PostgreSQL` `SQLite` `ChromaDB` `SQL` `Relational Databases`
+
+### ☁️ Cloud & DevOps
+
+`Azure` `PCF` `Docker` `GitHub Actions` `CI/CD`
+
+### 📊 Reliability & Observability
+
+`Application Support` `Incident Management` `Monitoring` `Dynatrace` `Kibana` `Logging` `Troubleshooting` `Production Reliability`
+
+### 🧪 Engineering Practices
+
+`REST Architecture` `Clean Architecture` `Repository Pattern` `Testing` `Debugging` `Code Reviews` `Agile`
+
+---
+
+## 💼 Professional Experience
+
+### Application Reliability / Full Stack Engineering
+
+**Accenture India**
+
+- Supported and maintained **10+ enterprise applications** in production environments.
+- Handled high-volume application incidents and production issues across multiple systems.
+- Performed **L2/L3 troubleshooting, root-cause analysis, SQL investigation, and application monitoring**.
+- Used **Dynatrace and Kibana** to investigate application behavior, performance issues, and production failures.
+- Developed **Python and SQL automation** to reduce repetitive operational work.
+- Worked with cloud and application platforms including **Azure and PCF**.
+- Collaborated with development and infrastructure teams during critical production incidents.
+- Contributed to application reliability, performance troubleshooting, and continuous improvement.
+- Built full-stack applications using modern frontend and backend technologies.
+
+---
+
+## 🧩 Engineering Interests
+
+I'm particularly interested in the intersection of **AI Engineering, Backend Development, Full Stack Engineering, and Application Reliability**.
+
+```text
+                 AI Engineering
+                       │
+                       ▼
+              ┌─────────────────┐
+              │  LLM / Agents   │
+              │  RAG / Tools    │
+              └────────┬────────┘
+                       │
+                       ▼
+                Backend Systems
+                       │
+                       ▼
+                 Production APIs
+                       │
+                       ▼
+             Reliability & Testing
+                       │
+                       ▼
+                  Observability
+```
+
+I'm especially interested in building **AI systems that are not only intelligent, but reliable, observable, testable, secure, and maintainable in production.**
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced **LangGraph agent architectures**
+- Production-grade **RAG systems**
+- AI observability and evaluation
+- Distributed application reliability
+- Docker and CI/CD
+- Advanced FastAPI architecture
+- Cloud-native AI application development
+- AI application testing and evaluation
+
+---
+
+## 🎯 What I'm Building Toward
+
+My goal is to grow as a **Software / AI Engineer** by combining:
+
+> **Production Engineering + Backend Development + Full Stack + AI**
+
+I enjoy solving problems where software needs to be both **useful and reliable**.
+
+---
+
+## 📌 Areas of Interest
+
+- AI Engineering
+- Generative AI
+- AI Agents
+- Retrieval-Augmented Generation
+- Backend Engineering
+- Full Stack Development
+- Cloud Applications
+- Application Reliability
+- Observability
+- Developer Productivity
+- Automation
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <b>Application Reliability Engineering · Application Support · Full Stack Developer</b><br/>
-  4+ years @ Accenture India · Chennai / Puducherry
+  <img src="https://github-readme-stats.vercel.app/api?username=smartkeerthi&show_icons=true&theme=tokyonight&hide_border=true" alt="Keerthivasan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartkeerthi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
+## 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://kkvasan.in" target="_blank">🌐 Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/keerthivasan-karunanithi-b8476018b" target="_blank">💼 LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:keerthianbu2000@gmail.com">📧 Email</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smartkeerthi&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a Custom Software Engineering Analyst at **Accenture India** with 4+ years of experience keeping enterprise applications stable, monitored, and running at **99.9% uptime**.
-
-My day-to-day involves triaging **L2/L3 incidents**, investigating **Dynatrace** and **Kibana** logs to identify root causes, writing **SQL** queries to validate production data, and building **Python** automation that eliminates repetitive manual work. I support **10+ enterprise applications** deployed on **PCF** and **Azure ARO**, handling **100+ incidents a month**, including critical P1/P2 escalations.
-
-Beyond production engineering, I build **full-stack applications** using **React.js, Next.js, Node.js, and SQL**, allowing me to independently troubleshoot and resolve UI, API, and database issues without relying entirely on development teams.
-
-More recently, I've been building **AI-powered applications** using **Python, Google Gemini, LangGraph, RAG, ChromaDB, and FastAPI** — including an AI expense assistant, a conversational CLI chatbot, and a document question-answering system.
-
-My focus is on building software that is not only functional, but **reliable, observable, and production-ready** — whether it's an enterprise application handling critical workloads or an AI system solving a real-world problem.
-
-
----
-
-## 🛠️ Tech Stack
-
-**Monitoring & Support**
-
-
-
-![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white)
-
-
-
-
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
-
-
-
-
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00C244?style=flat&logo=servicenow&logoColor=white)
-
-
-
-
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
-
-
-
-**Cloud Platforms**
-
-
-
-![PCF](https://img.shields.io/badge/PCF-Pivotal%20Cloud%20Foundry-00A6D6?style=flat)
-
-
-
-
-![Azure ARO](https://img.shields.io/badge/Azure%20ARO-Red%20Hat%20OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
-
-
-
-**Languages & Scripting**
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-
-
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-
-
-**Frontend**
-
-
-
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
-
-
-
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-
-
-
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-
-
-
-**Backend & Databases**
-
-
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-
-
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-
-
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-
-
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 [Expense Tracker Agent](https://github.com/smartkeerthi/Expense_Tracker_Agent) — AI-Powered Expense Assistant
-
-> Python · FastAPI · LangGraph · Google Gemini · Telegram · SQLAlchemy · PostgreSQL/SQLite
-
-AI-powered personal expense assistant that turns natural-language Telegram messages into structured financial transactions and spending summaries. Built with LangGraph agent orchestration, user-scoped data, webhook idempotency, and a layered service/repository architecture.
-
----
-
-### 📄 [Document RAG](https://github.com/smartkeerthi/Document_RAG) — Document Question-Answering API
-
-> Python · FastAPI · Google Gemini · ChromaDB · PyMuPDF · RAG
-
-Retrieval-Augmented Generation API that lets users upload PDFs and ask natural-language questions about their contents. Implements document chunking, Gemini embeddings, persistent ChromaDB vector search, grounded answer generation, and source-aware responses with page and similarity metadata.
-
-
-### 💬 [Chatzz](https://chatzz.kkvasan.in) — Real-Time Full Stack Chat App
-> Next.js · React.js · Prisma ORM · Pusher WebSocket · NextAuth.js · MySQL
-
-Full stack chat application built solo from ground up — database schema, REST API routes, WebSocket messaging, authentication, and production deployment. Everything owned end-to-end.
-
----
-
-### 📱 [HAVK](https://havk-app.firebaseapp.com) — Social Media Web App
-> React.js · Firebase Realtime Database · Firebase Auth · Firebase Hosting
-
-Full-featured social platform with real-time posts, image uploads, comments, and live content sync. Built and deployed independently using Firebase's NoSQL ecosystem.
-
----
-
-## 📈 What I'm Working On
-
-- 🔧 Deepening cloud monitoring skills (exploring Grafana & Splunk)
-- 📚 Pursuing ITIL Foundation certification
-- 🛠️ Building new full stack projects to expand my portfolio
-
----
-
-## 📫 Let's Connect
-
-If you're hiring for **Production Support**, **Application Support**, or **Full Stack** roles — let's talk.
-
-📧 keerthianbu2000@gmail.com  
-🌐 [kkvasan.in](https://kkvasan.in)  
-💼 [linkedin.com/in/keerthivasan-karunanithi](https://www.linkedin.com/in/keerthivasan-karunanithi-b8476018b)
-
----
-
-<p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:keerthianbu2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/smartkeerthi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/keerthivasan-karunanithi-b8476018b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kkvasan.in/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-<p align="center">
-  <i>“Consistency beats intensity.”</i> 🚀
-</p>
+
+---
+
+## 💡 Philosophy
+
+> **Build it. Make it reliable. Then make it better.**
+
+---
+
+⭐ If you find one of my projects useful, feel free to explore the repository and leave a star!
