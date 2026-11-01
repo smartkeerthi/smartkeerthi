@@ -1,137 +1,93 @@
 # Hi, I'm Keerthivasan 👋
 
-### Software Engineer | AI & Full Stack | Application Reliability
+### Frontend Developer | React · TypeScript · Next.js
 
-I build **production-minded software, AI applications, and reliable backend systems** with a focus on turning real-world problems into maintainable solutions.
+I build **fast, responsive, user-friendly web applications** with React, TypeScript, Next.js, and Tailwind CSS, and I care about clean code, performance, and a great user experience.
 
-I bring **4.5+ years of enterprise application experience** across application reliability, production support, backend development, and full-stack engineering. I'm currently focused on building with **Python, FastAPI, LangGraph, RAG, React, Next.js, and cloud technologies**.
+I bring **4 years 10 months of software engineering experience** in enterprise environments, including building React frontends, integrating REST APIs, and debugging JavaScript/React issues in production. Outside work, I build full-stack and AI projects to keep growing.
 
 ---
 
 ## 🚀 What I Do
 
-- 🤖 Build AI applications using **LLMs, LangGraph, RAG, and AI agents**
-- 🐍 Develop backend services and REST APIs with **Python & FastAPI**
-- ⚛️ Build full-stack applications with **React, Next.js & TypeScript**
-- 🗄️ Design applications using **PostgreSQL, SQLite, Prisma & vector databases**
-- ☁️ Work with **Azure, PCF, Docker & cloud environments**
-- 📊 Apply **observability, monitoring, troubleshooting, and reliability engineering**
-- 🔧 Automate repetitive operational workflows using **Python & SQL**
-- 🧪 Focus on maintainable architecture, testing, debugging, and production readiness
+- ⚛️ Build responsive UIs with **React, Next.js, TypeScript & Tailwind CSS**
+- 🔌 Integrate and debug **REST APIs** between frontends and backend services
+- ⚡ Create **real-time experiences** with Pusher and Firebase
+- 🔐 Add **authentication** with NextAuth.js
+- 🗄️ Work with **Prisma, MongoDB, MySQL & Firebase** on the data layer
+- 🐞 Troubleshoot **JavaScript and React issues in production**
+- 🤖 Explore **AI applications** with Python, LangGraph, and RAG
 
 ---
 
-## ⭐ Featured Projects
-
-### 🤖 Expense Tracker Agent
-
-**AI-powered expense management agent built with LangGraph and FastAPI.**
-
-A production-oriented AI application that allows users to record and analyze expenses through natural language.
-
-#### Highlights
-
-- LangGraph-based agent orchestration
-- Google Gemini integration
-- FastAPI REST API
-- Telegram bot and webhook integration
-- PostgreSQL / SQLite persistence
-- SQLAlchemy and Alembic migrations
-- Service / repository architecture
-- User-scoped data access
-- Webhook idempotency
-- Health checks and observability
-- LangSmith tracing
-
-**Tech Stack**
-
-`Python` `FastAPI` `LangGraph` `Google Gemini` `SQLAlchemy` `PostgreSQL` `SQLite` `Alembic`
-
----
-
-### 📚 Document RAG
-
-**Document question-answering API using Retrieval-Augmented Generation.**
-
-A RAG pipeline that processes documents, creates embeddings, retrieves relevant context, and generates grounded answers with source metadata.
-
-#### Pipeline
-
-```text
-Document
-   │
-   ▼
-Text Extraction
-   │
-   ▼
-Chunking
-   │
-   ▼
-Embeddings
-   │
-   ▼
-Vector Database
-   │
-   ▼
-Similarity Retrieval
-   │
-   ▼
-Context Construction
-   │
-   ▼
-LLM
-   │
-   ▼
-Grounded Answer + Sources
-```
-
-**Tech Stack**
-
-`Python` `FastAPI` `Google Gemini` `ChromaDB` `RAG` `Vector Search`
-
----
+## ⭐ Featured Frontend Projects
 
 ### 💬 Chatzz
 
 **Real-time one-to-one messaging application built with Next.js.**
 
-A full-stack application demonstrating authentication, persistent conversations, real-time communication, and responsive UI.
+A full-stack application demonstrating authentication, persistent conversations, real-time communication, and a responsive UI.
 
-#### Highlights
-
-- Next.js and React
-- TypeScript
-- Prisma ORM
+- Next.js, React, and TypeScript
 - Real-time messaging with Pusher
-- Authentication
-- Persistent database-backed conversations
-- Responsive interface
+- Authentication with NextAuth.js
+- Prisma ORM with persistent, database-backed conversations
+- Responsive interface built with Tailwind CSS
 - Production deployment
 
 **Tech Stack**
 
-`Next.js` `React` `TypeScript` `Prisma` `Pusher`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Prisma` `Pusher` `NextAuth.js`
 
 ---
 
-### 🧠 CLI Chatbot
+### 🌐 Havk App
 
-**Terminal-based AI chatbot with memory, personas, streaming, and usage tracking.**
+**Social media application built with React and Firebase.**
 
-A modular Gemini-powered CLI application focused on practical LLM application development.
+Users can create posts, connect with friends, and interact with content.
 
-#### Highlights
-
-- Streaming responses
-- Multiple AI personas
-- Conversation memory
-- Conversation summarization
-- Model switching
-- Token usage tracking
-- Cost estimation
-- Rich terminal interface
+- Interactive UI components with Material UI
+- Client-side navigation with React Router
+- Firebase for backend services and data management
 
 **Tech Stack**
+
+`React` `Firebase` `Material UI` `React Router`
+
+---
+
+### 💭 Havk Messenger
+
+**Real-time messaging application with presence tracking and media sharing.**
+
+- User presence tracking
+- Media sharing
+- Real-time sync with Firebase Realtime Database and Cloud Firestore
+
+**Tech Stack**
+
+`React` `Firebase Realtime Database` `Cloud Firestore`
+
+---
+
+## 🤖 AI & Backend Projects
+
+### 💸 Expense Tracker Agent
+
+AI-powered expense management agent built with **LangGraph and FastAPI**. Users record and analyze expenses in natural language through a Telegram bot, with Google Gemini, PostgreSQL / SQLite persistence, webhook idempotency, health checks, and LangSmith tracing.
+
+`Python` `FastAPI` `LangGraph` `Google Gemini` `SQLAlchemy` `PostgreSQL` `SQLite` `Alembic`
+
+### 📚 Document RAG
+
+Document question-answering API using Retrieval-Augmented Generation. It extracts text, chunks and embeds documents, retrieves relevant context from a vector database, and returns grounded answers with source metadata.
+
+`Python` `FastAPI` `Google Gemini` `ChromaDB` `RAG` `Vector Search`
+
+### 🧠 CLI Chatbot
+
+Terminal-based AI chatbot with streaming responses, multiple personas, conversation memory and summarization, model switching, token usage tracking, and cost estimation.
 
 `Python` `Google Gemini` `Rich` `LLM APIs`
 
@@ -139,81 +95,50 @@ A modular Gemini-powered CLI application focused on practical LLM application de
 
 ## 🛠️ Technical Skills
 
-### 🤖 AI & LLM
-
-`LLMs` `Generative AI` `RAG` `LangGraph` `LangChain` `Google Gemini` `AI Agents` `Prompt Engineering` `Vector Search` `Embeddings`
-
-### 🐍 Backend
-
-`Python` `FastAPI` `REST APIs` `Java` `Node.js` `SQLAlchemy` `Prisma`
-
 ### ⚛️ Frontend
 
-`React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS`
+`React` `Next.js` `TypeScript` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS` `Material UI` `React Router` `Angular (basic)`
+
+### 🔌 Backend & APIs
+
+`Node.js` `Express.js` `REST APIs` `Prisma` `NextAuth.js` `Pusher` `Firebase` `Python` `FastAPI`
 
 ### 🗄️ Databases
 
-`PostgreSQL` `SQLite` `ChromaDB` `SQL` `Relational Databases`
+`PostgreSQL` `MySQL` `MongoDB` `SQLite` `ChromaDB`
 
-### ☁️ Cloud & DevOps
+### 🧰 Tools & Practices
 
-`Azure` `PCF` `Docker` `GitHub Actions` `CI/CD`
+`Git` `GitHub Actions` `Postman` `cURL` `Docker` `CI/CD` `Testing` `Debugging` `Code Reviews` `Agile`
 
-### 📊 Reliability & Observability
+### 🤖 AI
 
-`Application Support` `Incident Management` `Monitoring` `Dynatrace` `Kibana` `Logging` `Troubleshooting` `Production Reliability`
+`LangGraph` `RAG` `Google Gemini` `LLMs` `AI Agents` `Prompt Engineering`
 
-### 🧪 Engineering Practices
+### ☁️ Cloud & Monitoring
 
-`REST Architecture` `Clean Architecture` `Repository Pattern` `Testing` `Debugging` `Code Reviews` `Agile`
+`Azure` `PCF` `Dynatrace` `Kibana` `Splunk`
 
 ---
 
 ## 💼 Professional Experience
 
-### Application Reliability / Full Stack Engineering
+### Custom Software Engineering Analyst (Frontend Developer) · Accenture India
 
-**Accenture India**
+*Jan 2022 – Present*
 
-- Supported and maintained **10+ enterprise applications** in production environments.
-- Handled high-volume application incidents and production issues across multiple systems.
-- Performed **L2/L3 troubleshooting, root-cause analysis, SQL investigation, and application monitoring**.
-- Used **Dynatrace and Kibana** to investigate application behavior, performance issues, and production failures.
-- Developed **Python and SQL automation** to reduce repetitive operational work.
-- Worked with cloud and application platforms including **Azure and PCF**.
-- Collaborated with development and infrastructure teams during critical production incidents.
-- Contributed to application reliability, performance troubleshooting, and continuous improvement.
-- Built full-stack applications using modern frontend and backend technologies.
+- Deliver frontend features for internal applications using **React.js, JavaScript, and TypeScript**.
+- Resolve **JavaScript and React defects in production**, restoring application stability.
+- Connect frontend applications to backend services by integrating and debugging **REST APIs**.
+- Maintain a **99.9% SLA** across 10+ enterprise applications and resolve L2/L3 incidents using Dynatrace, Kibana, and Splunk.
+- Automate recurring operational tasks with **Python**, saving 130+ hours per month.
+- Collaborate with development teams on production issues and on GenAI services built with FastAPI, LangGraph, and RAG.
 
----
+### Software Intern · Skill Software Inc.
 
-## 🧩 Engineering Interests
+*Mar 2021 – Jul 2021*
 
-I'm particularly interested in the intersection of **AI Engineering, Backend Development, Full Stack Engineering, and Application Reliability**.
-
-```text
-                 AI Engineering
-                       │
-                       ▼
-              ┌─────────────────┐
-              │  LLM / Agents   │
-              │  RAG / Tools    │
-              └────────┬────────┘
-                       │
-                       ▼
-                Backend Systems
-                       │
-                       ▼
-                 Production APIs
-                       │
-                       ▼
-             Reliability & Testing
-                       │
-                       ▼
-                  Observability
-```
-
-I'm especially interested in building **AI systems that are not only intelligent, but reliable, observable, testable, secure, and maintainable in production.**
+- Developed Angular frontend UI modules and Node.js REST APIs on a MEAN stack application, and supported MongoDB-backed end-to-end testing.
 
 ---
 
@@ -221,73 +146,27 @@ I'm especially interested in building **AI systems that are not only intelligent
 
 - Advanced **LangGraph agent architectures**
 - Production-grade **RAG systems**
-- AI observability and evaluation
-- Distributed application reliability
 - Docker and CI/CD
 - Advanced FastAPI architecture
 - Cloud-native AI application development
-- AI application testing and evaluation
-
----
-
-## 🎯 What I'm Building Toward
-
-My goal is to grow as a **Software / AI Engineer** by combining:
-
-> **Production Engineering + Backend Development + Full Stack + AI**
-
-I enjoy solving problems where software needs to be both **useful and reliable**.
-
----
-
-## 📌 Areas of Interest
-
-- AI Engineering
-- Generative AI
-- AI Agents
-- Retrieval-Augmented Generation
-- Backend Engineering
-- Full Stack Development
-- Cloud Applications
-- Application Reliability
-- Observability
-- Developer Productivity
-- Automation
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smartkeerthi&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+[![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=smartkeerthi&theme=tokyonight&hide_border=true)](https://github.com/smartkeerthi)
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="mailto:keerthianbu2000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/smartkeerthi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/keerthivasan-karunanithi-b8476018b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.kkvasan.in/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smartkeerthi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthivasan-karunanithi-b8476018b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kkvasan.in/)
 
 ---
-
-## 💡 Philosophy
 
 > **Build it. Make it reliable. Then make it better.**
-
----
 
 ⭐ If you find one of my projects useful, feel free to explore the repository and leave a star!
